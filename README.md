@@ -9,7 +9,7 @@ I appreciate people I can learn from. People who **consistently deliver clearly 
 - [Paul Graham](http://www.paulgraham.com/articles.html)
 <!-- - Aaron Swartz -->
 
-Making a writing app turned me into a person who writes a lot. This repo contains a few of the things I have written which follow the principles below:
+Making a writing app turned me into a person who writes a lot. This repo contains a few of the things I have written. Below are the principles I try to follow when writing:
 - 💧 **Clarity**
 - 👯 **Consistency**
 - 👊 **Fight the bias**
