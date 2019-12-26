@@ -4,7 +4,7 @@
 
 I am Antonio Stoilkov. I am a developer and entrepreneur working on [a writing app](https://caret.io/) for the last 4.5 years. For the last year and a half we have been working on [a new version](https://twitter.com/careteditor/status/1136198029357264896).
 
-I appreciate people I can learn from. People who **consistently deliver clearly expressed principles** help me the most. This is a niche market as consistency, clarity and principles can commonly be found alone but rarely together. The people below are people I follow, if you know them this will give you a better sense of what I am talking about.
+I appreciate people I can learn from. People who **consistently deliver clearly expressed principles** help me the most. This is a niche market as consistency, clarity and principles can commonly be found alone but rarely together. The people below are people I follow. If you know them this will give you a better sense of what I am talking about.
 - [James Clear](https://jamesclear.com/) — I often wonder if his last name "Clear" has something to do with the clarity of his writings.
 - [Paul Graham](http://www.paulgraham.com/articles.html)
 <!-- - Aaron Swartz -->
