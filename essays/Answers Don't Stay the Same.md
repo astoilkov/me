@@ -1,6 +1,6 @@
 # Answers Don't Stay the Same
 
-Over time answers to the same questions change. Noticing changes can be an advantage.
+Over time answers to the same questions change. Noticing new answers to old but important questions can be an advantage.
 
 Can an electric car be competitive on the market? That answer was "No" for a long time then the answer changed, but a lot of car companies didn't notice. Tesla as a new car company had to crawl like a baby, grow up in front of everyone's eyes and showcase that indeed the answer has changed. Smart people from top car companies had a blind spot.
 
