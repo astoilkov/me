@@ -2,7 +2,7 @@
 
 Over time answers to the same questions change. Noticing new answers to old but important questions can be an advantage.
 
-Can an electric car be competitive on the market? That answer was "No" for a long time then the answer changed, but a lot of car companies didn't notice. Tesla as a new car company had to crawl like a baby, grow up in front of everyone's eyes and showcase that indeed the answer has changed. Smart people from top car companies had a blind spot.
+Can an electric car be competitive on the market? That answer was "No" for a long time. At some point the technology for a competitive electric car did become available, but a lot of car companies didn't notice. Tesla as a new car company had to crawl like a baby, grow up in front of everyone's eyes and showcase that indeed the answer has changed. Smart people from top car companies had a blind spot.
 
 It seems like living with a certain belief for a long time makes you perceive it as a certain thing regardless of how smart and successful you are. Most probably the longer you believe in something the harder it is to notice the change.
 
