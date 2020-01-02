@@ -8,4 +8,4 @@ It seems like living with a certain belief for a long time makes you perceive it
 
 This thinking mechanism seems more like an evolutionary advantage rather than a mistake. If we had to constantly go back and question again all our assumptions we wouldn't be able to do much work. Imagine building a house. If every time you asked yourself "Why is this tool the best for the job?" you would probably spend more time thinking instead of building. Retrieving the answer you learned years ago is an optimization we can't live without.
 
-Double-checking everything all the time is impossible. Questioning what can make a big impact on your life seems important. Finding the balance can be quite hard but probably worth it.
+Double-checking everything all the time is impossible. Going back to questions that can make a big impact on your life seems important. Finding the balance can be quite hard but probably worth it.
