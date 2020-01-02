@@ -15,4 +15,4 @@ I appreciate people I can learn from. People who **consistently deliver clearly 
 <br/>
 
 Making a writing app turned me into a person who writes a lot. Here are a few things:
-- [Answers Change](/essays/Answers%20Change.md)
+- [Answers Don't Stay the Same](/essays/Answers%20Don't%20Stay%20the%20Same.md)
