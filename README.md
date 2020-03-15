@@ -1,6 +1,6 @@
 ![Antonio Stoilkov](/assets/astoilkov.png)
 
-[[ twitter ]](https://twitter.com/antoniostoilkov) [[ email ]](mailto:hello@astoilkov.com)
+[[ twitter ]](https://twitter.com/antoniostoilkov) [[ email ]](mailto:hello@astoilkov.com) [[ location ]](https://www.google.com/maps/place/Sofia)
 
 <br/>
 
