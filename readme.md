@@ -8,4 +8,5 @@ I am Antonio Stoilkov. I am a developer and entrepreneur working on [a writing a
 
 <br/>
 
-Making a writing app turned me into a person who writes a lot. I am a slow writer. Here is the only thing I like enough so I am willing to share it.
+Making a writing app turned me into a person who writes a lot. I am a slow writer. Here is the only thing I like enough so I am willing to share it:
+- [Doubt Conventions](/essays/Doubt%20Conventions.md)
