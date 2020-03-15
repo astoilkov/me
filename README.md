@@ -8,5 +8,4 @@ I am Antonio Stoilkov. I am a developer and entrepreneur working on [a writing a
 
 <br/>
 
-Making a writing app turned me into a person who writes a lot. Here are a few things:
-- [Answers Don't Stay the Same](/essays/Answers%20Don't%20Stay%20the%20Same.md)
+Making a writing app turned me into a person who writes a lot. I am a slow writer. Here is the only thing I like enough so I am willing to share it.
