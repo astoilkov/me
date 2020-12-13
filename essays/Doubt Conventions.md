@@ -6,10 +6,10 @@ Steve Jobs in an interview – "I would always ask why you do things and the ans
 
 Elon Musk in an interview – "People assume too many things to be true. Analyze things from first principles not by analogy or not by convention". [Interview](https://www.youtube.com/watch?v=8ZVCtqv_vNU) – watch the entire thing, it's one minute.
 
-I hope the examples above are thought-provoking enough to consider the idea of doubting established conventions. The emojis at the start of each paragraph mean:\
-😄 Advantage of the idea\
-😡 Disadvantage of the idea\
-💭 Comment (neither positive nor negative)
+I hope the examples above are thought-provoking enough to consider the idea of doubting established conventions. The emojis at the start of each paragraph mean:
+- 😄 Advantage of the idea
+- 😡 Disadvantage of the idea
+- 💭 Comment (neither positive nor negative)
 
 😄 **General and surprising.** I am basing this argument on the Paul Graham essay [General and Surprising](http://www.paulgraham.com/sun.html). If you read the essay you will understand the power of discovering something that is both general(knowledge that applies to a big area) and surprising(things others don't expect to be that way). When both conditions are met there is an opportunity for big value creation. Discovering that a convention is wrong is both general and surprising.
 
