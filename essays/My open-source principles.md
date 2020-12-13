@@ -17,3 +17,7 @@ These are set of principles that I follow in all my open-source repos. Their mai
 - **Learn from the code.** You can expect comments in the source-code answering the question "Why" in your head
 - **Trying to help you choose.** README has "Alternatives" section listing similar modules
 - (coming soon) **Strict ESLint.** I have a very strict ESLint rule set which I will include in all my open-source repos.
+
+## Examples
+
+- [astoilkov/use-local-storage-state](https://github.com/astoilkov/use-local-storage-state)
