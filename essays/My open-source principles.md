@@ -14,9 +14,9 @@ These are set of principles that I follow in all my open-source repos. Their mai
     - I aim for high quality
 - **No bloat.** I am inspired by [@sindresorhus](https://sindresorhus.com/) and I aim to create small and focused modules
 - **TypeScript.** Every repo is written in TypeScript with all strict `tsconfig` options enabled
-- **Learn from the code.** You can expect comments in the source-code answering the question "Why" in your head
+- **Learn from the code.** You can expect comments in the source-code answering the "Why?" questions in your head
 - **Trying to help you choose.** README has "Alternatives" section listing similar modules
-- (coming soon) **Strict ESLint.** I have a very strict ESLint rule set which I will include in all my open-source repos.
+- **Strict ESLint.** (coming soon) I have a very strict ESLint rule set which I will include in all my open-source repos.
 
 ## Examples
 
