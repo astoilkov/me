@@ -14,7 +14,7 @@ These are set of principles that I follow in all my open-source repos. Their mai
 - **Fast responses.** Response in 24 hours (holidays and personal issues are an exception)
 - **No bloat.** I am inspired by [@sindresorhus](https://sindresorhus.com/) and I aim to create small and focused modules
 - **Learn from the code.** Comments in the source-code answering the "Why?" questions in your head
-- **Trying to help you choose.** README has "Alternatives" section listing similar modules
+- **Trying to help you choose.** README has "Alternatives" section listing similar repos
 
 ## Examples
 
