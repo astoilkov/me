@@ -16,12 +16,12 @@ These are set of principles that I follow in all my open-source repos. Their mai
 - **Learn from the code.** Comments in the source-code answering the "Why?" questions in your head
 - **Trying to help you choose.** README has "Alternatives" section listing similar repos
 
-## Examples
-
-- [astoilkov/use-local-storage-state](https://github.com/astoilkov/use-local-storage-state)
-
 ## Motivation
 
 Code is both beautiful and practical. I want to show the beauty of small, fast, reliable, and understandable code.
 
 I sometimes as a developer feel lonely. I want to talk about beautiful and smart code with others. I hope to connect with such people through my work.
+
+## Examples
+
+- [astoilkov/use-local-storage-state](https://github.com/astoilkov/use-local-storage-state)
